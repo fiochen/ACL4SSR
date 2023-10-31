@@ -1,0 +1,24 @@
+# 直连
+#DOMAIN-SUFFIX,fastgit.org
+#DOMAIN-SUFFIX,jetbrains.com
+#DOMAIN-SUFFIX,download-cdn.jetbrains.com
+#DOMAIN-SUFFIX,download-cf.jetbrains.com
+
+# docker registry
+DOMAIN-SUFFIX,docker.ygys.xyz
+DOMAIN-SUFFIX,do.nark.eu.org
+DOMAIN-SUFFIX,dockerhub.icu
+DOMAIN-SUFFIX,hub.rat.dev
+DOMAIN-SUFFIX,docker.wanpeng.top
+DOMAIN-SUFFIX,doublezonline.cloud
+DOMAIN-SUFFIX,docker.mrxn.net
+DOMAIN-SUFFIX,lynn520.xyz
+DOMAIN-SUFFIX,ginger20240704.asia
+DOMAIN-SUFFIX,docker.anyhub.us.kg
+DOMAIN-SUFFIX,docker.wget.at
+DOMAIN-SUFFIX,docker.awsl9527.cn
+DOMAIN-SUFFIX,dislabaiot.xyz
+DOMAIN-SUFFIX,dockerpull.com
+DOMAIN-SUFFIX,dockerproxy.cn
+DOMAIN-SUFFIX,docker.fxxk.dedyn.io
+DOMAIN-SUFFIX,dhub.kubesre.xyz
